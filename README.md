@@ -4,10 +4,6 @@
 * pytorch 2.0.1
 * Numpy 1.25.1
 * torchvision
-## RGB-D Trained model weights
-* Download the following trained model weights [PLFRNet](https://pan.baidu.com/s/1e_qKAgL9QmJY2tZiPLoqng)(Code:0yl9) and put them in ./cpts.
-## RGB-T Trained model weights
-*  Download the following trained model weights [PLFRNet](https://pan.baidu.com/s/1UVfl665w7op13_SuUQJdhg)(Code:10l1) and put them in ./cpts.
 ## RGB-D Saliency maps
 * You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1QaCJrbRwocc6PcFhf6dFNg)(Code:wsnm)
 ## RGB-D Saliency maps
