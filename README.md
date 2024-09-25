@@ -9,9 +9,9 @@
 ## RGB-T Trained model weights
 *  Download the following trained model weights [PLFRNet](https://pan.baidu.com/s/1oQLEGpbMw9_Rt_XQvdLsfA)(Code:q1ky) and put them in ./cpts.
 ## RGB-D Saliency maps
-* You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1QaCJrbRwocc6PcFhf6dFNg)(Code:wsnm)
+* You can download the tested results map at Baidu Pan link [PLFRNet](https://pan.baidu.com/s/1KmNKGu3CvFn4hkEwPzSJTA)(Code:1234)
 ## RGB-T Saliency maps
-* You can download the tested results map at Baidu Pan link (https://pan.baidu.com/s/1e6KEEW8v5_otzVW523JjJQ)(Code:nvh6)
+* You can download the tested results map at Baidu Pan link [PLFRNet](https://pan.baidu.com/s/1bRBrjsx8W2teGW6D0N6OoQ)(Code:1234)
 ## Evaluate
 * You can get the assessment tool at this link (https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
 ## Citation
