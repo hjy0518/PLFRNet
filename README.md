@@ -1,4 +1,5 @@
 # PLFRNet : Perceptual Localization and Focus Refinement Network for RGB-D Salient Object Detection
+* This paper can be find at (https://doi.org/10.1016/j.eswa.2024.125278)
 # Requirements
 * python 3.8
 * pytorch 2.0.1
