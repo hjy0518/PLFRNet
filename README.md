@@ -16,4 +16,15 @@
 ## Evaluate
 * You can get the assessment tool at this link (https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
 ## Citation
+  @article{HAN2025125278,
+  title = {Perceptual localization and focus refinement network for RGB-D salient object detection},
+  journal = {Expert Systems with Applications},
+  volume = {259},
+  pages = {125278},
+  year = {2025},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2024.125278},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417424021456},
+  author = {Jinyu Han and Mengyin Wang and Weiyi Wu and Xu Jia},
+  }
 Feel free to send e-mails to me (1292724376@qq.com).
