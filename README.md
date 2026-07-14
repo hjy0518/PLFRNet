@@ -13,6 +13,9 @@
 * You can download the tested results map at Baidu Pan link [PLFRNet](https://pan.baidu.com/s/1KmNKGu3CvFn4hkEwPzSJTA)(Code:1234)
 ## RGB-T Saliency maps
 * You can download the tested results map at Baidu Pan link [PLFRNet](https://pan.baidu.com/s/1bRBrjsx8W2teGW6D0N6OoQ)(Code:1234)
+## Additional Resources
+You can also access our Google Drive to obtain all the weights and result maps: [PLFRNet](https://drive.google.com/drive/folders/1GIAayNcmQglaYhPRcSQxZazKmNYSPn4W?usp=drive_link)
+
 ## Evaluate
 * You can get the assessment tool at this link (https://github.com/zyjwuyan/SOD_Evaluation_Metrics)
 ## Citation
